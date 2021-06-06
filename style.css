@@ -1,0 +1,26 @@
+.hello {
+  background-color: aqua;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+.hello p {
+	font-family: "Brush Script MT";
+}
+
+.welcome {
+  font-size: 120px;
+  color: #226;
+  margin: 0;
+}
+
+.desc {
+  font-size: 60px;
+  color: #226;
+  margin: 0;
+}
+
+.hello img {
+	width: 200px;
+} 
